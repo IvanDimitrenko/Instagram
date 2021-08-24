@@ -1,0 +1,49 @@
+
+#l-main-section{
+    max-width: 1900px;
+    min-width: 300px;
+    height: 1600px;
+}
+
+#main {
+    margin: 32px auto;
+    /* border: 1px solid red; */
+    width: 849px;
+    height: 707px;
+    display: flex; 
+    background-color: #fbfaf8;
+}   
+.article-main {
+    /* border: 1px solid blue; */
+    width: 50%;
+}
+
+.authentiocation-block {
+    width: 350px;
+    margin-top: 80px;
+    border: 1px solid rgb(219, 219, 219);
+    background-color: #fff;
+}
+
+
+.input-block{
+    /* border: 1px solid darkgoldenrod; */
+    height: 100%;
+}
+
+
+.content {
+    max-width: 350px;
+    border: 3px solid brown;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 35px auto;
+    background-color: white;
+}
+
+
+
+
